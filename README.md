@@ -1,0 +1,1 @@
+This is an html/CSS assessment using the MDN course to create a splash page.
